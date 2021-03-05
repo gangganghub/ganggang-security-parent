@@ -1,0 +1,12 @@
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/properties/SecurityProperties.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/authentication/code/KaptchalmageCodeConfig.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/properties/LoginResponseType.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/exception/ValidateCodeException.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/config/ReloadMessageConfig.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/authentication/CustomAuthenticationFailureHandler.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/config/SpringSecurityConfig.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/authentication/code/ImageCodeValidateFilter.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/conroller/LoginController.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/properties/AuthenticationProperties.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/properties/LoginTypeProperties.java
+/Users/ganggang/IdeaProjects/ganggang-security-parent/ganggang-security-core/src/main/java/com/ganggang/security/authentication/CustomAuthenticationSuccessHandler.java

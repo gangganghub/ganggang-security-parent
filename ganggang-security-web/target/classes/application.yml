@@ -1,0 +1,18 @@
+server:
+  port: 80
+spring:
+  thymeleaf:
+    cache: false #关闭thymeleaf缓存
+ganggang:
+  security:
+    authentication:
+      loginPage: /login/page #响应登录认证
+      loginProcessingUrl: /login/form #/登录表单提交处理
+      usernameParameter: name #登录表单用户名
+      passwordParameter: pwd #登录表单密码
+      #静态资源开放
+      staticPaths:
+        - /dist/**
+        - /modules/**
+        - /plugins/**
+      loginType: REDIRECT
